@@ -23,15 +23,5 @@
 
 ---
 
-### 📂 Проекты
-
-| Проект | Что делает |
-|---|---|
-| [**«Марина» — ИИ-менеджер во ВКонтакте**](https://github.com/itgrom-ai/buhpro-vk-bot) | Консультирует клиентов бухгалтерской компании, записывает на консультацию, создаёт сделку в Bitrix24 |
-
-### 📬 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-@AntonTyulkin-26A5E4?logo=telegram&logoColor=white)](https://t.me/AntonTyulkin)
-[![Email](https://img.shields.io/badge/Email-itgrom@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:itgrom@gmail.com)
 
 Опишите задачу — за 15 минут разберёмся, что можно автоматизировать.
